@@ -1,5 +1,5 @@
 # General information 
-  This repository contains the information related to a train-the-trainer session running in Delft University of Technology on the 24th and 25th of June. 
+  This repository contains the information related to a train-the-trainer session on the 24th and 25th of June organized by the 4TU. 
   We merely adjusted the content of the workshop proposed by Barbara Vreede, from the University of Utrecht. Many thanks to her and her team for this material. 
   
   
