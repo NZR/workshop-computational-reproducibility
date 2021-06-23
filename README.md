@@ -1,14 +1,14 @@
-# General information 
-  This repository contains the information related to a train-the-trainer session on the 24th and 25th of June organized by the 4TU. 
-  We merely adjusted the content of the workshop proposed by Barbara Vreede, from the University of Utrecht. Many thanks to her and her team for this material. 
-  
-  
+# General information
+  This repository contains the information related to a train-the-trainer session on the 24th and 25th of June organized by the 4TU.
+  We merely adjusted the content of the workshop proposed by Barbara Vreede, from the University of Utrecht. Many thanks to her and her team for this material.
+
+
 
 # Best Practices for Writing Reproducible Code
 
 _If you are looking at a GitHub README, please note that the slides are best viewed [via GitHub pages](https://nzr.github.io/workshop-computational-reproducibility)._
 
-_A gitbook is under development as well: [check it out]https://nzr.github.io/workshop-computational-reproducibility/docs/index.html)!_
+_A gitbook is under development as well: [check it out]https://nzr.github.io/workshop-computational-reproducibility/README.html!_
 
 Ensuring your research is reproducible can be a difficult task.
 Scripting your analysis is a start, but this in and of itself is no guarantee that you, or someone else, can faithfully repeat your work at a later stage.
@@ -30,8 +30,8 @@ Note on the breakout rooms - we will decide the composition of the group based o
 
 | Time  | Activity |
 |-------:|----------|
-| 12:00 | Last minute setup/environment fix for those who didn't manage to install everything.| 
-| 13:00 | Welcome & introduction ([slides](slides/slides_introduction.html)) (Connie)| 
+| 12:00 | Last minute setup/environment fix for those who didn't manage to install everything.|
+| 13:00 | Welcome & introduction ([slides](slides/slides_introduction.html)) (Connie)|
 | 13:15 | Questions on: Project setup ([link](exercises/project-setup.md)) (Heather)|
 | 13:30 | (breakout) Excerise on Project setup (Heather - Eirini)|
 | 13:45 | Questions on Version control with Git ([link](exercises/project-setup.md#2))|
@@ -40,7 +40,7 @@ Note on the breakout rooms - we will decide the composition of the group based o
 | 14:30 | Break! |
 | 14:45 | Answering questions on Code Readability ([link](exercises/code-quality.md#1)) (Nicolas) |
 | 14:55 | (breakout) Exercise on Readability (Nicolas - ) |
-| 15:15 | Answering questions on Reusability ([link](exercises/code-quality.md#2-exercise)) (Nicolas)| 
+| 15:15 | Answering questions on Reusability ([link](exercises/code-quality.md#2-exercise)) (Nicolas)|
 | 15:25 | (breakout) Exercise on Readability (Nicolas - )|
 | 15:45 | Break! |
 | 16.00 | Answering qustions on Robustness ([link](exercises/code-quality.md#3-exercise)) (Nicolas)|
@@ -53,7 +53,7 @@ Note on the breakout rooms - we will decide the composition of the group based o
 
 | Time  | Activity |
 |-------:|----------|
-| 13:00 | Day 1 review, and Q&A Time | 
+| 13:00 | Day 1 review, and Q&A Time |
 | 13:10 | Answering questions on Comments and Docstring ([link](exercises/documentation.md#12-exercise)) (Eirini)|
 | 13:25 | (breakout) Exercise on comments/docstrings (Eirini - Nicolas)|
 | 13:45 | Answering questions on README ([link](exercises/documentation.md#22-exercise)) (Eirini)|
@@ -64,7 +64,7 @@ Note on the breakout rooms - we will decide the composition of the group based o
 | 15:00 | Answering questions on Binder ([link](exercises/reproducibility.md#12-exercise)) (Eirini)|
 | 15:15 | Answering questions on Video Archiving ([link](exercises/reproducibility.md#12-exercise)) (Santosh)|
 | 15:30 | Break! |
-| 15.45 | Big final exercise  ([link](slides/slides_reproducibility.md#18))| 
+| 15.45 | Big final exercise  ([link](slides/slides_reproducibility.md#18))|
 | 16.30 | Q&A - discussion |
 | _17.00_ | _End_ |
 
@@ -90,9 +90,9 @@ Note on the breakout rooms - we will decide the composition of the group based o
 
 ### Exercises
 1. [Project setup & version control with git](exercises/project-setup.md)
-1. [Code quality](exercises/code-quality.md) 
-1. [Project documentation](exercises/documentation.md) 
-1. [Accessibility & reproducibility](exercises/reproducibility.md) 
+1. [Code quality](exercises/code-quality.md)
+1. [Project documentation](exercises/documentation.md)
+1. [Accessibility & reproducibility](exercises/reproducibility.md)
 
 
 ## License
@@ -118,4 +118,3 @@ Workshop development is being coordinated by [Neha Moopen](https://github.com/ne
 | [Menno Fraters](https://github.com/MFraters)
 | [Philippe Delandmeter](https://github.com/delandmeterp)
 | [Renato Alves](https://github.com/unode)
-
