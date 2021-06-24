@@ -32,18 +32,18 @@ Note on the breakout rooms - we will decide the composition of the group based o
 |-------:|----------|
 | 12:00 | Last minute setup/environment fix for those who didn't manage to install everything.| 
 | 13:00 | Welcome & introduction (<a href="./slides/slides_introduction.html">slides</a>) (Connie)| 
-| 13:15 | Questions on: Project setup ([link](exercises/project-setup.md)) (Heather)|
+| 13:15 | Questions on: Project setup (<a href="./02_Project_Setup/0_Project_Setup.html">link</a>)(Heather)|
 | 13:30 | (breakout) Excerise on Project setup (Heather - Eirini)|
-| 13:45 | Questions on Version control with Git ([link](exercises/project-setup.md#2))|
+| 13:45 | Questions on Version control with Git (<a href="./02_Project_Setup/0_Project_Setup.html#exercises">link</a>)|
 | 14:00 | (breakout) Exercise on version control (Heather - Nicolas)|
-| 14:15 | Questions on Publication and Licensing ([link](exercises/project-setup.md#3)) (Santosh)|
+| 14:15 | Questions on Publication and Licensing (<a href="./02_Project_Setup/0_Project_Setup.html#id5">link</a>) (Santosh)|
 | 14:30 | Break! |
-| 14:45 | Answering questions on Code Readability ([link](exercises/code-quality.md#1)) (Nicolas) |
+| 14:45 | Answering questions on Code Readability (<a href="./03_Code_quality/README.html">link</a>) (Nicolas) |
 | 14:55 | (breakout) Exercise on Readability (Nicolas - ) |
-| 15:15 | Answering questions on Reusability ([link](exercises/code-quality.md#2-exercise)) (Nicolas)| 
+| 15:15 | Answering questions on Reusability (<a href="03_Code_quality/README.html#id3">link</a>) (Nicolas)| 
 | 15:25 | (breakout) Exercise on Readability (Nicolas - )|
 | 15:45 | Break! |
-| 16.00 | Answering qustions on Robustness ([link](exercises/code-quality.md#3-exercise)) (Nicolas)|
+| 16.00 | Answering qustions on Robustness (<a href="03_Code_quality/README.html#id6">link</a>) (Nicolas)|
 | 16.15 | Demonstration: Robustness (Nicolas - )|
 | 16.35 | Q&A - General discussion|
 | _16:45_ | _End_ |
