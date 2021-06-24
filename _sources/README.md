@@ -40,10 +40,10 @@ Note on the breakout rooms - we will decide the composition of the group based o
 | 14:30 | Break! |
 | 14:45 | Answering questions on Code Readability (<a href="./03_Code_quality/README.html">link</a>) (Nicolas) |
 | 14:55 | (breakout) Exercise on Readability (Nicolas - ) |
-| 15:15 | Answering questions on Reusability (<a href="03_Code_quality/README.html#id3">link</a>) (Nicolas)| 
+| 15:15 | Answering questions on Reusability (<a href="./03_Code_quality/README.html#id3">link</a>) (Nicolas)| 
 | 15:25 | (breakout) Exercise on Readability (Nicolas - )|
 | 15:45 | Break! |
-| 16.00 | Answering qustions on Robustness (<a href="03_Code_quality/README.html#id6">link</a>) (Nicolas)|
+| 16.00 | Answering qustions on Robustness (<a href="./03_Code_quality/README.html#id6">link</a>) (Nicolas)|
 | 16.15 | Demonstration: Robustness (Nicolas - )|
 | 16.35 | Q&A - General discussion|
 | _16:45_ | _End_ |
@@ -54,17 +54,17 @@ Note on the breakout rooms - we will decide the composition of the group based o
 | Time  | Activity |
 |-------:|----------|
 | 13:00 | Day 1 review, and Q&A Time | 
-| 13:10 | Answering questions on Comments and Docstring ([link](exercises/documentation.md#12-exercise)) (Eirini)|
+| 13:10 | Answering questions on Comments and Docstring (<a href="./04_Documentation/README.html#exercise">link</a>)  (Eirini)|
 | 13:25 | (breakout) Exercise on comments/docstrings (Eirini - Nicolas)|
-| 13:45 | Answering questions on README ([link](exercises/documentation.md#22-exercise)) (Eirini)|
+| 13:45 | Answering questions on README (<a href="./04_Documentation/README.html#id3">link</a>) (Eirini)|
 | 13.55 | (breakout)  Exercise README (Eirini - ) |
 | 14.15 | Break!|
-| 14:30 | Answering questions about dependencies ([link](exercises/documentation.md#12-exercise)) (Heather)|
+| 14:30 | Answering questions about dependencies (<a href="./04_Documentation/README.html#id3">link</a>) (Heather)|
 | 14:45 | (breakout) Exercise on Dependencies (Heather - Nicolas)|
-| 15:00 | Answering questions on Binder ([link](exercises/reproducibility.md#12-exercise)) (Eirini)|
-| 15:15 | Answering questions on Video Archiving ([link](exercises/reproducibility.md#12-exercise)) (Santosh)|
+| 15:00 | Answering questions on Binder (<a href="05_Reproducibility/README.html#exercise-optional">link</a>) (Eirini)|
+| 15:15 | Answering questions on Video Archiving (<a href="05_Reproducibility/README.html#id4">link</a>) (Santosh)|
 | 15:30 | Break! |
-| 15.45 | Big final exercise  ([link](slides/slides_reproducibility.md#18))| 
+| 15.45 | Big final exercise (<a href="05_Reproducibility/README.html#id4">link</a>) | 
 | 16.30 | Q&A - discussion |
 | _17.00_ | _End_ |
 
