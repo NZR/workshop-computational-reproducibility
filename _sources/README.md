@@ -20,7 +20,7 @@ Reproducibility requires extra effort, but we will focus on teaching you skills 
 ## Preparation
 
 If you are attending this workshop, you can prepare a few things so we can hit the ground running!
-We have [more details on this page](preparations).
+We have <a href="https://github.com/NZR/workshop-computational-reproducibility/blob/master/preparations.md">more details on this page</a>
 
 
 ## Schedule
@@ -31,7 +31,7 @@ Note on the breakout rooms - we will decide the composition of the group based o
 | Time  | Activity |
 |-------:|----------|
 | 12:00 | Last minute setup/environment fix for those who didn't manage to install everything.| 
-| 13:00 | Welcome & introduction ([slides](slides/slides_introduction.html)) (Connie)| 
+| 13:00 | Welcome & introduction (<a href="./slides/slides_introduction.html">slides</a>) (Connie)| 
 | 13:15 | Questions on: Project setup ([link](exercises/project-setup.md)) (Heather)|
 | 13:30 | (breakout) Excerise on Project setup (Heather - Eirini)|
 | 13:45 | Questions on Version control with Git ([link](exercises/project-setup.md#2))|
